@@ -23,9 +23,14 @@ Diabetes-Testergebnis positiv (1) oder negativ (0) ist.
 <br>
 
 ## **Inhalte:**
-•	Explorative Datenanalyse (EDA): Durchführung explorativer Datenanalysen, um die Struktur des Datensatzes zu verstehen, die Verteilung der Zielvariable zu visualisieren und die Beziehung zwischen den verschiedenen Variablen zu untersuchen.
-•	Analyse unabhängiger Variablen: Untersuchung der unabhängigen Variablen im Datensatz, um ihre Verteilungen und potenziellen Einflüsse auf die Zielvariable zu verstehen.
-•	Beziehungsanalyse: Untersuchung der Beziehung zwischen der Zielvariablen und den unabhängigen Variablen, um zu verstehen, welche Variablen das Risiko für Diabetes stärker beeinflussen.
-•	Datenverarbeitung: Durchführung von Datenverarbeitungsschritten, um fehlende Werte zu behandeln, Ausreißer zu erkennen und zu skalieren, um den Datensatz für die Modellierung vorzubereiten.
-•	Modellierung und Evaluierung: Erstellung eines logistischen Regressionsmodells und Vorhersagen. Verwendung verschiedener Metriken wie der Konfusionsmatrix, dem Klassifikationsbericht und der Fläche unter der ROC-Kurve (ROC AUC) zur Bewertung der Modellleistung. Einsatz der Holdout-Methode zur Validierung des Modells und abschließende Evaluierung mithilfe der 10-fachen Kreuzvalidierungsmethode.
-•	Vorhersage für neue Beobachtungen: Treffen von Vorhersagen für neue Beobachtungen durch Auswahl einer zufälligen Beobachtung und Anwendung des Modells zur Vorhersage ihrer Klasse.
+•	**Explorative Datenanalyse (EDA):** Durchführung explorativer Datenanalysen, um die Struktur des Datensatzes zu verstehen, die Verteilung der Zielvariable zu visualisieren und die Beziehung zwischen den verschiedenen Variablen zu untersuchen.
+
+•	**Analyse unabhängiger Variablen:** Untersuchung der unabhängigen Variablen im Datensatz, um ihre Verteilungen und potenziellen Einflüsse auf die Zielvariable zu verstehen.
+
+•	**Beziehungsanalyse:** Untersuchung der Beziehung zwischen der Zielvariablen und den unabhängigen Variablen, um zu verstehen, welche Variablen das Risiko für Diabetes stärker beeinflussen.
+
+•	**Datenverarbeitung:** Durchführung von Datenverarbeitungsschritten, um fehlende Werte zu behandeln, Ausreißer zu erkennen und zu skalieren, um den Datensatz für die Modellierung vorzubereiten.
+
+•	**Modellierung und Evaluierung:** Erstellung eines logistischen Regressionsmodells und Vorhersagen. Verwendung verschiedener Metriken wie der Konfusionsmatrix, dem Klassifikationsbericht und der Fläche unter der ROC-Kurve (ROC AUC) zur Bewertung der Modellleistung. Einsatz der Holdout-Methode zur Validierung des Modells und abschließende Evaluierung mithilfe der 10-fachen Kreuzvalidierungsmethode.
+
+•	**Vorhersage für neue Beobachtungen:** Treffen von Vorhersagen für neue Beobachtungen durch Auswahl einer zufälligen Beobachtung und Anwendung des Modells zur Vorhersage ihrer Klasse.
