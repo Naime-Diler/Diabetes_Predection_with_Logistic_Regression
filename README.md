@@ -1,4 +1,4 @@
-Entwicklung und Validierung eines Diabetesvorhersagemodells durch logistische Regression
+# **Entwicklung und Validierung eines Diabetesvorhersagemodells durch logistische Regression**
 
 
 Dieses Projekt bietet einen eingehenden Einblick in die Entwicklung und Validierung eines Diabetesvorhersagemodells mittels logistischer Regression. Hierfür wird ein Datensatz mit vielfältigen Gesundheitsmerkmalen wie Glukosekonzentration, Blutdruck und BMI verwendet, um das Diabetesrisiko einer Person vorherzusagen. Neben der Untersuchung von logistischer Regression und Klassifikationsprozessen hinsichtlich Erfolgsmetriken und Modellvalidierungsmethoden befasst sich das Projekt mit einer End-to-End-Maschinenlernklassifizierungsaufgabe, basierend auf einem realen Datensatz und einem realen Problem. Das Ziel besteht darin, das Diabetesvorhersagemodell mittels logistischer Regression zu entwickeln und seine Leistung anhand von Erfolgsmetriken und Modellvalidierungsmethoden zu bewerten. Die EDA (Explorative Datenanalyse) und das Feature Engineering werden in diesem Projekt nur kurz behandelt, da sie bereits in einem anderen Projekt zu diesem Datensatz ausführlich behandelt wurden.
@@ -8,19 +8,21 @@ handelt sich um Informationen, die im Rahmen einer Diabetesstudie an Pima-Indian
 Arizona, gesammelt wurden. Das Datenset besteht aus 768 Beobachtungen und 8 numerischen unabhängigen Variablen. Die Zielvariable "outcome" gibt an, ob ein
 Diabetes-Testergebnis positiv (1) oder negativ (0) ist.
 
-Variablen:
-Pregnancies: Anzahl der Schwangerschaften
-Glucose: Blutzuckerspiegel
-BloodPressure: Blutdruck
-SkinThickness: Hautdicke
-Insulin: Insulinspiegel
-BMI: Body-Mass-Index
-DiabetesPedigreeFunction: Funktion zur Berechnung des Diabetesrisikos basierend auf familiärer Vorgeschichte
-Age: Alter (Jahre)
-Outcome: Diabetesstatus der Person. Betroffen (1) oder nicht (0)
+## **Variablen:**
+<ul>
+<li><strong>Pregnancies:</strong> Anzahl der Schwangerschaften</li>
+<li><strong>Glucose:</strong> Blutzuckerspiegel</li>
+<li><strong>BloodPressure:</strong> Blutdruck</li>
+<li><strong>SkinThickness:</strong> Hautdicke</li>
+<li><strong>Insulin:</strong> Insulinspiegel</li>
+<li><strong>BMI:</strong> Body-Mass-Index</li>
+<li><strong>DiabetesPedigreeFunction:</strong> Funktion zur Berechnung des Diabetesrisikos basierend auf familiärer Vorgeschichte</li>
+<li><strong>Age:</strong> Alter (Jahre)</li>
+<li><strong>Outcome:</strong> Diabetesstatus der Person. Betroffen (1) oder nicht (0)</li>
+</ul>
+<br>
 
-
-Inhalte:
+## **Inhalte:**
 •	Explorative Datenanalyse (EDA): Durchführung explorativer Datenanalysen, um die Struktur des Datensatzes zu verstehen, die Verteilung der Zielvariable zu visualisieren und die Beziehung zwischen den verschiedenen Variablen zu untersuchen.
 •	Analyse unabhängiger Variablen: Untersuchung der unabhängigen Variablen im Datensatz, um ihre Verteilungen und potenziellen Einflüsse auf die Zielvariable zu verstehen.
 •	Beziehungsanalyse: Untersuchung der Beziehung zwischen der Zielvariablen und den unabhängigen Variablen, um zu verstehen, welche Variablen das Risiko für Diabetes stärker beeinflussen.
